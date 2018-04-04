@@ -1,0 +1,4 @@
+#Tue Apr 03 14:46:14 SGT 2018
+base.0=D\:\\Learning\\Ex_Files_AndroidAppDev_CreateFirstApp\\Ex_Files_AndroidAppDev_CreateFirstApp\\Exercise Files\\Ch03\\03_05\\Permissions\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

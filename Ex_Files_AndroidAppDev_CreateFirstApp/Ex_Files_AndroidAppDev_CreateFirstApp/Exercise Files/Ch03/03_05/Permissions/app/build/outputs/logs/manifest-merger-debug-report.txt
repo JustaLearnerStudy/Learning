@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\d42203e9c95cfe7c4597419cbb3c9f40\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\134026bf8f0139399237727215b5b0f4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ab26888d41ef6af804d8026428fd5eab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\d50e0858a7c35e53b62e14c58e822b2f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f01cdd5b253a089fdbaf168354bb64ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3165c5bd75ac1c49d9ce395cff210dc6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\1e2ca207b7f692d1073fdd7db6da294c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1ebe0e85fb1af3d9f203ae00d4d67a18\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\70c33f5ba10e977cf3e4145df091771c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\47e0b6cdcc9453e0fef16a9da53d364b\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\d42203e9c95cfe7c4597419cbb3c9f40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\d42203e9c95cfe7c4597419cbb3c9f40\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\134026bf8f0139399237727215b5b0f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\134026bf8f0139399237727215b5b0f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ab26888d41ef6af804d8026428fd5eab\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ab26888d41ef6af804d8026428fd5eab\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\d50e0858a7c35e53b62e14c58e822b2f\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\d50e0858a7c35e53b62e14c58e822b2f\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3165c5bd75ac1c49d9ce395cff210dc6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3165c5bd75ac1c49d9ce395cff210dc6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\1e2ca207b7f692d1073fdd7db6da294c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\1e2ca207b7f692d1073fdd7db6da294c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1ebe0e85fb1af3d9f203ae00d4d67a18\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1ebe0e85fb1af3d9f203ae00d4d67a18\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\70c33f5ba10e977cf3e4145df091771c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\70c33f5ba10e977cf3e4145df091771c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\47e0b6cdcc9453e0fef16a9da53d364b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\47e0b6cdcc9453e0fef16a9da53d364b\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.firstapp.MainActivity
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\d42203e9c95cfe7c4597419cbb3c9f40\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\d42203e9c95cfe7c4597419cbb3c9f40\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\134026bf8f0139399237727215b5b0f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\134026bf8f0139399237727215b5b0f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ab26888d41ef6af804d8026428fd5eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\ab26888d41ef6af804d8026428fd5eab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\d50e0858a7c35e53b62e14c58e822b2f\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\d50e0858a7c35e53b62e14c58e822b2f\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f01cdd5b253a089fdbaf168354bb64ed\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\f01cdd5b253a089fdbaf168354bb64ed\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3165c5bd75ac1c49d9ce395cff210dc6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3165c5bd75ac1c49d9ce395cff210dc6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\1e2ca207b7f692d1073fdd7db6da294c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\1e2ca207b7f692d1073fdd7db6da294c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1ebe0e85fb1af3d9f203ae00d4d67a18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\1ebe0e85fb1af3d9f203ae00d4d67a18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\70c33f5ba10e977cf3e4145df091771c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\70c33f5ba10e977cf3e4145df091771c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\47e0b6cdcc9453e0fef16a9da53d364b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\47e0b6cdcc9453e0fef16a9da53d364b\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\joel5\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\d2852b7f642b701a2859e807a66cd092\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\Ex_Files_AndroidAppDev_CreateFirstApp\Ex_Files_AndroidAppDev_CreateFirstApp\Exercise Files\Ch03\03_05\Permissions\app\src\main\AndroidManifest.xml
